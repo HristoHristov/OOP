@@ -1,0 +1,9 @@
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\bin\Debug\P4_HTML_Dispatcher.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\bin\Debug\P4_HTML_Dispatcher.pdb
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\obj\x86\Debug\P4_HTML_Dispatcher.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\obj\x86\Debug\P4_HTML_Dispatcher.pdb
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\obj\x86\Debug\P4_HTML_Dispatcher.exe
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\obj\x86\Debug\P4_HTML_Dispatcher.pdb
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\bin\Debug\P4_HTML_Dispatcher.exe
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P4_HTML_Dispatcher\bin\Debug\P4_HTML_Dispatcher.pdb

@@ -1,0 +1,6 @@
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P1Customer\bin\Debug\P1Customer.exe.config
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P1Customer\obj\Debug\P1Customer.csprojResolveAssemblyReference.cache
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P1Customer\bin\Debug\P1Customer.exe
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P1Customer\bin\Debug\P1Customer.pdb
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P1Customer\obj\Debug\P1Customer.exe
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P1Customer\obj\Debug\P1Customer.pdb

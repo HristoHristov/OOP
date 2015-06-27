@@ -1,0 +1,9 @@
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P2_Enter_Numbers\bin\Debug\P2_Enter_Numbers.exe.config
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P2_Enter_Numbers\bin\Debug\P2_Enter_Numbers.exe
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P2_Enter_Numbers\bin\Debug\P2_Enter_Numbers.pdb
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P2_Enter_Numbers\obj\Debug\P2_Enter_Numbers.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P2_Enter_Numbers\obj\Debug\P2_Enter_Numbers.exe
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P2_Enter_Numbers\obj\Debug\P2_Enter_Numbers.pdb
+C:\Users\UniUser\Desktop\Exception_Handling\P2_Enter_Numbers\bin\Debug\P2_Enter_Numbers.exe.config
+C:\Users\UniUser\Desktop\Exception_Handling\P2_Enter_Numbers\obj\Debug\P2_Enter_Numbers.exe
+C:\Users\UniUser\Desktop\Exception_Handling\P2_Enter_Numbers\obj\Debug\P2_Enter_Numbers.pdb

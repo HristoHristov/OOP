@@ -1,0 +1,11 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P2_Laptop_Shop.cs\bin\Debug\P2_Laptop_Shop.cs.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P2_Laptop_Shop.cs\bin\Debug\P2_Laptop_Shop.cs.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P2_Laptop_Shop.cs\bin\Debug\P2_Laptop_Shop.cs.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P2_Laptop_Shop.cs\obj\Debug\P2_Laptop_Shop.cs.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P2_Laptop_Shop.cs\obj\Debug\P2_Laptop_Shop.cs.pdb
+C:\Users\UniUser\Desktop\Defining_Classes\P2_Laptop_Shop.cs\bin\Debug\P2_Laptop_Shop.cs.exe.config
+C:\Users\UniUser\Desktop\Defining_Classes\P2_Laptop_Shop.cs\obj\Debug\P2_Laptop_Shop.cs.exe
+C:\Users\UniUser\Desktop\Defining_Classes\P2_Laptop_Shop.cs\obj\Debug\P2_Laptop_Shop.cs.pdb
+C:\Users\UniUser\Desktop\Defining_Classes\P2_Laptop_Shop.cs\bin\Debug\P2_Laptop_Shop.cs.exe
+C:\Users\UniUser\Desktop\Defining_Classes\P2_Laptop_Shop.cs\bin\Debug\P2_Laptop_Shop.cs.pdb
+C:\Users\UniUser\Desktop\Defining_Classes\P2_Laptop_Shop.cs\obj\Debug\P2_Laptop_Shop.cs.csprojResolveAssemblyReference.cache

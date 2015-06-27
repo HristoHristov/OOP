@@ -1,0 +1,5 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P3_PC_Catalog.cs\bin\Debug\P3_PC_Catalog.cs.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P3_PC_Catalog.cs\bin\Debug\P3_PC_Catalog.cs.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P3_PC_Catalog.cs\bin\Debug\P3_PC_Catalog.cs.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P3_PC_Catalog.cs\obj\Debug\P3_PC_Catalog.cs.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Defining_Classes\P3_PC_Catalog.cs\obj\Debug\P3_PC_Catalog.cs.pdb

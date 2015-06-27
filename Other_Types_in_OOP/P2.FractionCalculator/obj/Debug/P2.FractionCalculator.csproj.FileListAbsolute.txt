@@ -1,0 +1,9 @@
+c:\users\uniuser\documents\visual studio 2013\Projects\Other_Types_in_OOP\P2.FractionCalculator\bin\Debug\P2.FractionCalculator.exe.config
+c:\users\uniuser\documents\visual studio 2013\Projects\Other_Types_in_OOP\P2.FractionCalculator\bin\Debug\P2.FractionCalculator.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Other_Types_in_OOP\P2.FractionCalculator\bin\Debug\P2.FractionCalculator.pdb
+c:\users\uniuser\documents\visual studio 2013\Projects\Other_Types_in_OOP\P2.FractionCalculator\obj\Debug\P2.FractionCalculator.csprojResolveAssemblyReference.cache
+c:\users\uniuser\documents\visual studio 2013\Projects\Other_Types_in_OOP\P2.FractionCalculator\obj\Debug\P2.FractionCalculator.exe
+c:\users\uniuser\documents\visual studio 2013\Projects\Other_Types_in_OOP\P2.FractionCalculator\obj\Debug\P2.FractionCalculator.pdb
+C:\Users\UniUser\Desktop\OOP\Other_Types_in_OOP\P2.FractionCalculator\bin\Debug\P2.FractionCalculator.exe.config
+C:\Users\UniUser\Desktop\OOP\Other_Types_in_OOP\P2.FractionCalculator\obj\Debug\P2.FractionCalculator.exe
+C:\Users\UniUser\Desktop\OOP\Other_Types_in_OOP\P2.FractionCalculator\obj\Debug\P2.FractionCalculator.pdb

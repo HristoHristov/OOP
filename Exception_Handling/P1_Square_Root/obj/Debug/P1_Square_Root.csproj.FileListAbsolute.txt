@@ -1,0 +1,12 @@
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P1_Square_Root\bin\Debug\P1_Square_Root.exe.config
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P1_Square_Root\obj\Debug\P1_Square_Root.csprojResolveAssemblyReference.cache
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P1_Square_Root\bin\Debug\P1_Square_Root.exe
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P1_Square_Root\bin\Debug\P1_Square_Root.pdb
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P1_Square_Root\obj\Debug\P1_Square_Root.exe
+C:\Users\UniUser\Desktop\C#_Homework\P1_Square_Root\P1_Square_Root\obj\Debug\P1_Square_Root.pdb
+C:\Users\UniUser\Desktop\Exception_Handling\P1_Square_Root\bin\Debug\P1_Square_Root.exe.config
+C:\Users\UniUser\Desktop\Exception_Handling\P1_Square_Root\obj\Debug\P1_Square_Root.exe
+C:\Users\UniUser\Desktop\Exception_Handling\P1_Square_Root\obj\Debug\P1_Square_Root.pdb
+C:\Users\UniUser\Desktop\Exception_Handling\P1_Square_Root\bin\Debug\P1_Square_Root.exe
+C:\Users\UniUser\Desktop\Exception_Handling\P1_Square_Root\bin\Debug\P1_Square_Root.pdb
+C:\Users\UniUser\Desktop\Exception_Handling\P1_Square_Root\obj\Debug\P1_Square_Root.csprojResolveAssemblyReference.cache

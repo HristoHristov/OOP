@@ -1,0 +1,6 @@
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P2StringDisperser\obj\Debug\P2StringDisperser.csprojResolveAssemblyReference.cache
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P2StringDisperser\bin\Debug\P2StringDisperser.exe.config
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P2StringDisperser\bin\Debug\P2StringDisperser.exe
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P2StringDisperser\bin\Debug\P2StringDisperser.pdb
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P2StringDisperser\obj\Debug\P2StringDisperser.exe
+D:\C#_Projects\C#_Homewoks\CommonTypeSystem\P2StringDisperser\obj\Debug\P2StringDisperser.pdb

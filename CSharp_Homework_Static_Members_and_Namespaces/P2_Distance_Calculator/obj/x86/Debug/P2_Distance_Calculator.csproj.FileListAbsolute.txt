@@ -1,0 +1,7 @@
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P2_Distance_Calculator\bin\Debug\P2_Distance_Calculator.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P2_Distance_Calculator\bin\Debug\P2_Distance_Calculator.pdb
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P2_Distance_Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P2_Distance_Calculator\obj\x86\Debug\P2_Distance_Calculator.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P2_Distance_Calculator\obj\x86\Debug\P2_Distance_Calculator.pdb
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P2_Distance_Calculator\obj\x86\Debug\P2_Distance_Calculator.exe
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P2_Distance_Calculator\obj\x86\Debug\P2_Distance_Calculator.pdb

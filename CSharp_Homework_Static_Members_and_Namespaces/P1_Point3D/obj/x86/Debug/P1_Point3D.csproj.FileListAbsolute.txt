@@ -1,0 +1,7 @@
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P1_Point3D\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P1_Point3D\bin\Debug\P1_Point3D.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P1_Point3D\bin\Debug\P1_Point3D.pdb
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P1_Point3D\obj\x86\Debug\P1_Point3D.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P1_Point3D\obj\x86\Debug\P1_Point3D.pdb
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P1_Point3D\obj\x86\Debug\P1_Point3D.exe
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P1_Point3D\obj\x86\Debug\P1_Point3D.pdb

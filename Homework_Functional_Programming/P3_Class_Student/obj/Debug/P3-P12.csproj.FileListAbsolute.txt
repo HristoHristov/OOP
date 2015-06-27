@@ -1,0 +1,5 @@
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P3_Class_Student\bin\Debug\P3_Class_Student.exe.config
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P3_Class_Student\bin\Debug\P3_Class_Student.exe
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P3_Class_Student\bin\Debug\P3_Class_Student.pdb
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P3_Class_Student\obj\Debug\P3_Class_Student.exe
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P3_Class_Student\obj\Debug\P3_Class_Student.pdb

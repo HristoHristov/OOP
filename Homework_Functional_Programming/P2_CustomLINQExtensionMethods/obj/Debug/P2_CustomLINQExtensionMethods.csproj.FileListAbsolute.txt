@@ -1,0 +1,6 @@
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P2_CustomLINQExtensionMethods\bin\Debug\P2_CustomLINQExtensionMethods.exe.config
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P2_CustomLINQExtensionMethods\obj\Debug\P2_CustomLINQExtensionMethods.csprojResolveAssemblyReference.cache
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P2_CustomLINQExtensionMethods\bin\Debug\P2_CustomLINQExtensionMethods.exe
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P2_CustomLINQExtensionMethods\bin\Debug\P2_CustomLINQExtensionMethods.pdb
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P2_CustomLINQExtensionMethods\obj\Debug\P2_CustomLINQExtensionMethods.exe
+D:\C#_Projects\C#_Homewoks\Homework_Functional_Programming\P2_CustomLINQExtensionMethods\obj\Debug\P2_CustomLINQExtensionMethods.pdb

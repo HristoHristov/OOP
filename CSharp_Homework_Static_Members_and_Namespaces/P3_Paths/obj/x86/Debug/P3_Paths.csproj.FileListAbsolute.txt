@@ -1,0 +1,10 @@
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\bin\Debug\P3_Paths.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\bin\Debug\P3_Paths.pdb
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\obj\x86\Debug\P3_Paths.exe
+C:\C#\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\obj\x86\Debug\P3_Paths.pdb
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\obj\x86\Debug\P3_Paths.exe
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\obj\x86\Debug\P3_Paths.pdb
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\bin\Debug\P3_Paths.exe
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\bin\Debug\P3_Paths.pdb
+C:\Users\UniUser\Desktop\C#_Homework\CSharp_Homework_Static_Members_and_Namespaces\P3_Paths\obj\x86\Debug\P3_Paths.csprojResolveAssemblyReference.cache
